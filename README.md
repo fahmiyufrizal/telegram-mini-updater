@@ -11,7 +11,7 @@ Telegram Mini-Updater and Cleanup - Ditulis menggunakan Notepad++
 
 - Cukup taruh file Telegram_Mini_Updater.exe berdampingan dengan aplikasi Telegram Portable
 - Jalankan Telegram_Mini_Updater.exe untuk update aplikasi
-- Jalankan Telegram_Auto_Update_Scheduler.exe untuk otomatis update aplikasi Telegram Portable setiap 12 jam sekali
+- Jalankan Telegram_Auto_Update_Scheduler.exe untuk otomatis update aplikasi Telegram Portable setiap 4 jam sekali
 
 ## Terimakasih Kepada
 
